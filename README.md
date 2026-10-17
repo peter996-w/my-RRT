@@ -1,7 +1,5 @@
 # PointNet++-Guided Vascular Path Planning
 
-Anonymous artifact link for a paper under review.
-
 Code and pretrained models will be released upon acceptance.
 
 ## Method Overview
